@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "https://imgs.search.brave.com/dFCb1LIenwjGdiuABKRBVj_98PYyQZ7oK1ZKV7j7NGM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzY2LzU5LzM2/LzM2MF9GXzY2NjU5/MzY1MF81N2YxZ3Bq/WlVSaGwyM2VRdWpW/aUJSZzVoVnl6S0RC/UC5qcGc";
 
 const imageAltText = "desktop with books and laptop";
 
