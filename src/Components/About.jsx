@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "https://imgs.search.brave.com/2YbPyMFcR_vwGmnPKRS3oux1btSh2tDIed_N_zmgiVM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQx/MDg4MDM5Mi9waG90/by9jbG9zZS11cC1v/Zi1zcGxhc2hpbmct/ZHJvcGxldC1hZ2Fp/bnN0LWJsdWUtYmFj/a2dyb3VuZC10YXJs/ZXRvbi11bml0ZWQt/a2luZ2RvbS11ay5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/Z2VFVlVOMWV4WEpn/OUVRVHVXekdEV3hK/N2Q1RW9zMGVSNm5x/VUVweElvTT0";
 
 const imageAltText = "purple and blue abstract background";
 
